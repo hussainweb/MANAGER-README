@@ -68,10 +68,10 @@ I constantly work to build trust. Mainly I do that by doing what I said I would 
 
 My basic expectation from anyone on the team boils down to these things:
 
-* Play for the team
-* Always learn
-* Do what you said you will
-* Finally, take care of yourself
+- Play for the team
+- Always learn
+- Do what you said you will
+- Finally, take care of yourself
 
 ## DRI model
 
