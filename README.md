@@ -1,3 +1,29 @@
+Table of Contents
+=================
+
+- [Table of Contents](#table-of-contents)
+- [Who is Hussain](#who-is-hussain)
+  - [Hussain, as a manager](#hussain-as-a-manager)
+  - [My Values](#my-values)
+    - [Enthusiasm](#enthusiasm)
+    - [Openness](#openness)
+    - [Competency](#competency)
+    - [Curiosity](#curiosity)
+    - [Humour](#humour)
+    - [Trustworthiness](#trustworthiness)
+  - [My expectations](#my-expectations)
+  - [DRI model](#dri-model)
+  - [Process and Software Development](#process-and-software-development)
+    - [Clean Pull Requests (or Merge Requests)](#clean-pull-requests-or-merge-requests)
+    - [Consistency](#consistency)
+    - [Know your stuff](#know-your-stuff)
+  - [What you may expect from me](#what-you-may-expect-from-me)
+    - [Honesty](#honesty)
+    - [Learning](#learning)
+  - [My view on one-on-ones](#my-view-on-one-on-ones)
+  - [My view on feedback](#my-view-on-feedback)
+
+
 # Who is Hussain
 
 <img align="right" src="./me-drupalcon-talk.jpg" width="409" height="212" alt="hussainweb presenting a talk at DrupalCon" title="Photo from DrupalCon Nashville" />
