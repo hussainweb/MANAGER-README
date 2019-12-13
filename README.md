@@ -1,8 +1,11 @@
-Table of Contents
-=================
+# Who is Hussain
 
-- [Table of Contents](#table-of-contents)
+*This is my MANAGER README. My personal readme is in a separate document for [quicker access](https://hussainweb.github.io/README/). It would help you to know me better as a manager if you first know me as a person, and I'd recommend you to read that first.*
+
+## Table of Contents
+
 - [Who is Hussain](#who-is-hussain)
+  - [Table of Contents](#table-of-contents)
   - [Hussain, as a manager](#hussain-as-a-manager)
   - [My Values](#my-values)
     - [Enthusiasm](#enthusiasm)
@@ -23,11 +26,7 @@ Table of Contents
   - [My view on one-on-ones](#my-view-on-one-on-ones)
   - [My view on feedback](#my-view-on-feedback)
 
-# Who is Hussain
-
 <img align="right" src="./me-drupalcon-talk.jpg" width="409" height="212" alt="hussainweb presenting a talk at DrupalCon" title="Photo from DrupalCon Nashville" />
-
-*This is my MANAGER README. My personal readme is in a separate document for [quicker access](https://hussainweb.github.io/README/). It would help you to know me better as a manager if you first know me as a person, and I'd recommend you to read that first.*
 
 Hi, I am [**Hussain**](https://www.linkedin.com/in/hussainweb/), a **Service Area Lead** at [Axelerant](https://www.axelerant.com/) who is learning the ropes of working more and more with people rather than machines. I have built, and more importantly, helped others build several [Drupal solutions](https://www.drupal.org/u/hussainweb) over the past few years. I am an introvert pushing myself towards extroversion by speaking at conferences, organising meetups, and pushing myself to introduce myself to others at meetups and conferences. Read my [personal README](https://hussainweb.github.io/README/) to know more about me as a person.
 
